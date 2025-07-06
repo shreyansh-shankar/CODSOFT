@@ -1,0 +1,14 @@
+[
+    {
+        "name": "User 1",
+        "phone": "1234567890",
+        "email": "test1@email.com",
+        "address": "User 1 address"
+    },
+    {
+        "name": "New User",
+        "phone": "7894561230",
+        "email": "new@email.com",
+        "address": "New address"
+    }
+]
